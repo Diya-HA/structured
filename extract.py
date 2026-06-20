@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Practice change — safe to ignore (added for Git staging practice).
 """
 extract.py — Extract structured data from an unstructured document.
 
